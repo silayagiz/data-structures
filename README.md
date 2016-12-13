@@ -1,13 +1,14 @@
-This repository contains small projects including 
-Java 8 and Stream API named as Data Structure
+This repository contains small projects including Java 8 and Stream API named as Data Structure
 
-=USED TECHNOLOGIES while developing=
+USED TECHNOLOGIES while developing
+
 - Maven Project
 - Netbeans 8.2 (Enterprise Edition)
 - JDK-JRE 1.8
 - Junit
 
-=INCLUDED FILES=
+INCLUDED FILES
+
 -pom.xml
 -DataStructureValidationException.java
 -PeopleContact.java and Test.java
@@ -16,10 +17,9 @@ Java 8 and Stream API named as Data Structure
 -PeopleContactJunit.java
 -ComparatorJunit.java
 
-=CONTENT=
-There are three different practices 
-with costumized exception and 
-junit test 
+CONTENT
+
+There are three different practices with costumized exception and junit test 
 
 1. People Contact
 Included function is findPhoneNumberByName(): It gives phone number of user withgiven name from phonebook
